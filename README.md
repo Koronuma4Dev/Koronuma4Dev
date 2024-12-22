@@ -7,8 +7,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Koronuma4Dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
-# 💫 About Me:
-  Hi there ʚ(｡˃ ᵕ ˂ )ɞ<br><br><br>- 🌱 I’m currently learning Data analytics and web development<br>
 
 
 ## 🌐 Socials:
